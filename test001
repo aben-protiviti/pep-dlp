@@ -1,0 +1,52 @@
+[
+    {
+        "ssn": "534-93-2979",
+        "name": "Pat Johnson",
+        "birthdate": "1977-12-05"
+    },
+    {
+        "ssn": "743-99-5868",
+        "name": "John Doe",
+        "birthdate": "1987-11-12"
+    },
+    {
+        "ssn": "357-20-5407",
+        "name": "Chris Doe",
+        "birthdate": "1986-11-09"
+    },
+    {
+        "ssn": "530-71-6986",
+        "name": "Pat Doe",
+        "birthdate": "1993-05-08"
+    },
+    {
+        "ssn": "702-96-1636",
+        "name": "Chris Johnson",
+        "birthdate": "1979-07-15"
+    },
+    {
+        "ssn": "269-71-5295",
+        "name": "Pat Lee",
+        "birthdate": "1987-08-06"
+    },
+    {
+        "ssn": "133-29-8954",
+        "name": "Jane Johnson",
+        "birthdate": "1971-03-01"
+    },
+    {
+        "ssn": "985-95-3808",
+        "name": "Chris Johnson",
+        "birthdate": "1975-10-16"
+    },
+    {
+        "ssn": "551-85-8345",
+        "name": "Alex Doe",
+        "birthdate": "1993-06-01"
+    },
+    {
+        "ssn": "544-16-3601",
+        "name": "John Doe",
+        "birthdate": "1975-02-03"
+    }
+]
